@@ -4,5 +4,6 @@ the project contains files related to selenium and cucumber integration
 # information
 this repo belons to author yashashree07
 # purpose
-this repo is for demo practice purpose
+tTHIS IS DEMO REPO
+
 
